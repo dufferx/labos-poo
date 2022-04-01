@@ -1,0 +1,7 @@
+C:\Users\ferbi\Desktop\labo\ejercicio labo\ejercicio labo\bin\Debug\ejercicio_labo.exe
+C:\Users\ferbi\Desktop\labo\ejercicio labo\ejercicio labo\bin\Debug\ejercicio_labo.pdb
+C:\Users\ferbi\Desktop\labo\ejercicio labo\ejercicio labo\obj\Debug\ejercicio labo.csproj.AssemblyReference.cache
+C:\Users\ferbi\Desktop\labo\ejercicio labo\ejercicio labo\obj\Debug\ejercicio labo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferbi\Desktop\labo\ejercicio labo\ejercicio labo\obj\Debug\ejercicio labo.csproj.CoreCompileInputs.cache
+C:\Users\ferbi\Desktop\labo\ejercicio labo\ejercicio labo\obj\Debug\ejercicio_labo.exe
+C:\Users\ferbi\Desktop\labo\ejercicio labo\ejercicio labo\obj\Debug\ejercicio_labo.pdb
